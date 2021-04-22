@@ -8,6 +8,8 @@ A Decentralized Platform for Connecting Autonomous Robots
 
 ## Why
 
+Every industry is trying to integrate robotics one way or another. Autonomous Robots market is valued at $1.9B in 2019 by a market research. It is predicted to grow at a rate of 29% AGR.
+
 ## How
 
 ## Project Timeline
