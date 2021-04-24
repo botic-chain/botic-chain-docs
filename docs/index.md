@@ -16,9 +16,9 @@ This is analogous to the various financial services offered by various banks and
 
 Similar to **DeFi**, if all the robotic services can be integrated on a common platform, along with Artificial Intelligence algorithms, there will be no limit to the efficiency of operations which can be achieved. <br>
 
-We call it, **Vision DeRo**. Imagine if you could rent out your autonomous robot, say a drone which is parked on top of your roof or on your balcony, which can be deployed by anyone having verified credentials can deploy it for transporting their package from point A to point B. And what if the drone automatically detects when the person renting is using it for an illegal purpose by communicating with AI algorithms. This is our vision for giving public utility to all autonomous robots.<br>
+We call it, **Vision DeRo**. Imagine if you could rent out your autonomous robot, say a drone which is parked on top of your roof or on your balcony, which can be deployed by anyone having verified credentials can deploy it for transporting their package from point A to point B. And what if the drone automatically detects when the person renting is using it for an illegal purpose by communicating with AI algorithms. This is our vision for giving public utility to all autonomous robots. We plan to build this on public blockchain networks like Ethereum & Polkadot. Currently Robonomics.network offers a readily available solution integrating ROS operating system with their own network. <br>
 
-For robotic companies, which are bound by their corporate regulations we offer a more private solution where only a consortium of companies can
+For robotic companies, which are bound by their corporate regulations we offer a more private solution where the platform allows only a consortium of companies to participate.
 
 ## How botic-chain works
 
