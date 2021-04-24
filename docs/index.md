@@ -1,10 +1,10 @@
 # Welcome to Botic-Chain
 
-![Logo](img/logo.png)<br/>
+![Logo](img/logo.png)
 
 ## What
 
-A Decentralized Platform for Connecting Autonomous Robots
+botic-chain is a decentralized platform for connecting autonomous robots.
 
 ## Why
 
@@ -15,8 +15,6 @@ Decentralized Finance which was
 ## How
 
 ## Project Timeline
-
-##
 
 ## Types
 
