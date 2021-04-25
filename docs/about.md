@@ -4,7 +4,7 @@ The idea for botic-chain was originally envisioned during the RZRBlock Hackathon
 
 # Team
 
-## Pradeep Kumar Prakasam
+## Pradeep Kumar Prakasam, Founder
 
 Hi, I'm Pradeep, a passionate Blockchain developer and a R&D engineer from Toronto. My passion for innovation led me to learn Blockchain and I forked my career into Blockchain Development through a course at George Brown College, Toronto. I am also an active volunteer at Bitcoin Bay maintaining the OPTN wallet. When I am not working, I like to explore new and exciting stuff and participate in interesting Hackathons.
 
