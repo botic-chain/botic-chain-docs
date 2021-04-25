@@ -24,6 +24,8 @@ For robotic companies, which are bound by their corporate regulations we offer a
 ## Project Timeline
 
 ## How botic-chain works
+![image](https://user-images.githubusercontent.com/45354395/115998744-b852d800-a5b6-11eb-8772-b7d5b84e310f.png)
+
 
 ## Types
 
