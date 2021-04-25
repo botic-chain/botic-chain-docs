@@ -24,19 +24,7 @@ For robotic companies, which are bound by their corporate regulations we offer a
 ## Project Timeline
 
 ## How botic-chain works
-![image](https://user-images.githubusercontent.com/45354395/115998744-b852d800-a5b6-11eb-8772-b7d5b84e310f.png)
+![image](https://user-images.githubusercontent.com/45354395/115998860-50e95800-a5b7-11eb-8d87-dd7b5ff8efff.png)
 
 
-## Types
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
