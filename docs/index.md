@@ -20,16 +20,3 @@ Similar to **DeFi**, if all the robotic services can be integrated on a common p
 We call it, **Vision DeRo**. Imagine if you could rent out your autonomous robot, say a drone which is parked on top of your roof or on your balcony, which can be deployed by anyone having verified credentials can deploy it for transporting their package from point A to point B. And what if the drone automatically detects when the person renting is using it for an illegal purpose by communicating with AI algorithms. This is our vision for giving public utility to all autonomous robots. We plan to build this on public blockchain networks like Ethereum & Polkadot. Currently Robonomics.network offers a readily available solution integrating ROS operating system with their own network. <br>
 
 For robotic companies, which are bound by their corporate regulations we offer a more private platform based on HyperLedger Besu where the platform allows only a consortium of companies to participate. HyperLedger Besu has been selected due to its Ethereum compatibility which easily integrated into the public platform.
-
-## Project Timeline
-
-The project has been divided into four epochs.
-![image](https://user-images.githubusercontent.com/45354395/115999913-e7b81380-a5bb-11eb-836d-7153717c5253.png)
-
-### Epoch 1 - December 2021
-
-The first epoch is the launch of the public platform which connects the widely used drones to the general public. This will be created on top of Robonomics.network and Polkadot.
-
-### Epoch 2 - April 2022
-
-The second epoch will release private networks using HyperLedger Besu.
