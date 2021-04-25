@@ -1,3 +1,7 @@
+# About Us
+
+The idea for botic-chain was originally envisioned during the RZRBlock Hackathon where a challenge was posed to develop an innovative use case of blockchain for Space. It was then developed further by the founder as a part of his final capstone project at George Brown College.
+
 # Team
 
 ## Pradeep Kumar Prakasam
