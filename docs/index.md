@@ -24,7 +24,7 @@ For robotic companies, which are bound by their corporate regulations we offer a
 ## Project Timeline
 
 The project has been divided into four epochs.
-![image](https://user-images.githubusercontent.com/45354395/115999062-43809d80-a5b8-11eb-8a59-358396c784ee.png)
+![image](https://user-images.githubusercontent.com/45354395/115999913-e7b81380-a5bb-11eb-836d-7153717c5253.png)
 
 The first epoch is the launch of the public platform which connects the widely used drones to the general public.
 
