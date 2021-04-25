@@ -2,5 +2,6 @@ site_name: Botic-Chain
 nav:
   - Home: index.md
   - How it works: How it works.md
+  - Project Timeline: Project timeline.md
   - About: about.md
 theme: readthedocs
