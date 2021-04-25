@@ -1,5 +1,6 @@
 site_name: Botic-Chain
 nav:
   - Home: index.md
+  - How it works: How it works.md
   - About: about.md
 theme: readthedocs
