@@ -2,7 +2,9 @@
 
 ![Logo](img/logo.png)
 
-botic-chain is a decentralized platform for connecting autonomous robots.
+botic-chain is a decentralized platform for connecting autonomous robots. The objective of botic-chain is to connect various autonomous robots using a blockchain platform.<br>
+![image](https://user-images.githubusercontent.com/45354395/116001142-1ab0d600-a5c1-11eb-80d6-9c70f0bf6319.png)
+
 
 ## Introduction
 
