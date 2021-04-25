@@ -1,6 +1,11 @@
 # About Us
 
-The idea for botic-chain was originally envisioned during the RZRBlock Hackathon where a challenge was posed to develop an innovative use case of blockchain for Space. It was then developed further by the founder as a part of his final capstone project at George Brown College.
+The idea for botic-chain was originally envisioned during the RZRBlock Hackathon where a challenge was posed to develop an innovative use case of blockchain for Space. <br>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S3O7ODoi8O0/0.jpg)](https://www.youtube.com/watch?v=S3O7ODoi8O0)<br>
+It was then developed further by the founder as a part of his final capstone project at George Brown College.<br>
+![image](https://user-images.githubusercontent.com/45354395/116000572-d6243b00-a5be-11eb-9045-ccd66cae9ef0.png)
+
 
 # Team
 
