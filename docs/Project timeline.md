@@ -17,7 +17,8 @@ The second epoch will release private networks using HyperLedger Besu.
 ## Epoch 3 - April 2023
 
 The third epoch, botic-chain a dedicated public blockchain will be launched either as a Side Chain or Layer solution on top of Ethereum which integrates the private and public networks created in previous epochs.
-![image](https://user-images.githubusercontent.com/45354395/116000896-08826800-a5c0-11eb-8bf2-056d7403afb1.png)
+![image](https://user-images.githubusercontent.com/45354395/116000970-55fed500-a5c0-11eb-9c01-efcb72425dcb.png)
+
 
 
 ## Epoch 4 - April 2024
