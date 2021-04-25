@@ -5,24 +5,24 @@ The project has been divided into four epochs.
 
 ## Epoch 1 - December 2021
 
-The first epoch is the launch of the public platform which connects the widely used drones to the general public. This will be created on top of Robonomics.network and Polkadot.
+The first epoch is the launch of the public platform which connects the widely used drones to the general public. This will be created on top of Robonomics.network and Polkadot. <br>
 ![image](https://user-images.githubusercontent.com/45354395/116000808-b4778380-a5bf-11eb-8bc5-5d59a95cd4b3.png)
 
 ## Epoch 2 - April 2022
 
-The second epoch will release private networks using HyperLedger Besu.
+The second epoch will release private networks using HyperLedger Besu.<br>
 ![image](https://user-images.githubusercontent.com/45354395/116000867-f274a780-a5bf-11eb-8fe7-7ba9b4e980c5.png)
 
 
 ## Epoch 3 - April 2023
 
-The third epoch, botic-chain a dedicated public blockchain will be launched either as a Side Chain or Layer solution on top of Ethereum which integrates the private and public networks created in previous epochs.
+The third epoch, botic-chain a dedicated public blockchain will be launched either as a Side Chain or Layer solution on top of Ethereum which integrates the private and public networks created in previous epochs.<br>
 ![image](https://user-images.githubusercontent.com/45354395/116000970-55fed500-a5c0-11eb-9c01-efcb72425dcb.png)
 
 
 
 ## Epoch 4 - April 2024
 
-This is the most challenging and the fun part where AI algorithms are listed by integrating OpenCog AI platform. We want to make sure that it is fully tested before it is launched live, hence it comes as the last epoch. If trials shows results, this epoch will be pushed along with epoch 2 or 3.
+This is the most challenging and the fun part where AI algorithms are listed by integrating OpenCog AI platform. We want to make sure that it is fully tested before it is launched live, hence it comes as the last epoch. If trials shows results, this epoch will be pushed along with epoch 2 or 3.<br>
 ![image](https://user-images.githubusercontent.com/45354395/116000927-29e35400-a5c0-11eb-9d5a-d08d8624c7dc.png)
 
